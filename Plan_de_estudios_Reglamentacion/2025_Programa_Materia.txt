@@ -13,6 +13,20 @@ Los materiales magnéticos han desempeñado un rol fundamental en el desarrollo 
 
 La comprensión de los fenómenos magnéticos es imprescindible para el desarrollo de nuevos materiales magnéticos y aplicaciones, lo que ofrece grandes oportunidades para la investigación en las áreas de física, físico-químico, ciencia de materiales e ingeniería, así como en aplicaciones industriales y comerciales. Este curso tiene como objetivo enseñar los conceptos fundamentales del magnetismo y los materiales magnéticos, con ejemplos claros de sus aplicaciones, proporcionar herramientas esenciales para la entender la ciencia y tecnología actuales, y fomentar el desarrollo de investigaciones en estos temas.
 
+Objetivo general:
+
+Presentar el fenómeno del magnetismo, introduciendo los mecanismos que controlan el comportamiento de los materiales magnéticos y sus técnicas de caracterización, y explicar aplicaciones actuales de los materiales magnéticos.
+
+Objectivos específicos:
+- Proporcionar una introducción histórica del magnetismo y conceptos básicos como los polos magnéticos, las curvas de magnetización y los ciclos de histéresis.
+- Detallar los sistemas de unidades en magnetismo.
+- Clasificar y explicar las descripciones teóricas de los materiales magnéticos, según los modelos diamagnético, paramagnético, ferromagnético, antiferromagnético y ferrimagnético.
+- Distinguir las teorías clásicas y cuánticas del magnetismo.
+- Explicar los distintos tipos de anisotropía magnética, principalmente la anisotropía cristalina y la de forma.
+- Describir las estructuras de dominio magnético y procesos de magnetización.
+- Analizar el caso del magnetismo en partículas finas, incluyendo los comportamientos de monodominio y multidominio, y los mecanismos de reversión de la magnetización.
+- Demostrar aplicaciones magnéticas actuales y relacionarlas con los temas de estudio en el curso.
+
 CONTENIDO
 Unidad 1: Introducción
 Introducción. Polos magnéticos. Momento magnético. Magnetización. Dipolos magnéticos. Efectos magnéticos de las corrientes. Distintos tipos de magnetismo. Curvas de magnetización y ciclos de histéresis. Unidades magnéticas.
@@ -74,3 +88,4 @@ Aprobar un coloquio.
 CORRELATIVIDADES
 Para cursar: tener aprobada Física General III. 
 Para rendir: aprobadas Electromagnetismo I y Termodinámica Mecánica Estadística I.
+
