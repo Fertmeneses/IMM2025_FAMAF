@@ -17,7 +17,8 @@ Objetivo general:
 
 Presentar el fenómeno del magnetismo, introduciendo los mecanismos que controlan el comportamiento de los materiales magnéticos y sus técnicas de caracterización, y explicar aplicaciones actuales de los materiales magnéticos.
 
-Objectivos específicos:
+Objetivos específicos:
+
 - Proporcionar una introducción histórica del magnetismo y conceptos básicos como los polos magnéticos, las curvas de magnetización y los ciclos de histéresis.
 - Detallar los sistemas de unidades en magnetismo.
 - Clasificar y explicar las descripciones teóricas de los materiales magnéticos, según los modelos diamagnético, paramagnético, ferromagnético, antiferromagnético y ferrimagnético.
