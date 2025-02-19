@@ -9,9 +9,9 @@ REGIMEN: Cuatrimestral
 CARGA HORARIA: 120 horas
 
 FUNDAMENTACIÓN Y OBJETIVOS
-En la actualidad se hace necesaria una comprensión más profunda del magnetismo en materiales, ya sean éstos de tamaño milimétrico o mayor, como en aquellos denominados nanomateriales, en los que la dimensionalidad puede estar reducida y sus dimensiones se acercan a las longitudes criticas, definidas por la competencia de diferentes interacciones.
-Estos aspectos se tratarán en el presente curso.
-El objetivo del curso es conocer las variables del material y las contribuciones a la energía magnética del mismo, las que determinan su microestructura magnética en diferentes condiciones externas. Se discutirán también los mecanismos de histéresis magnética de dichas microestructuras y los posibles mecanismos de magnetización operativos en los diferentes casos.
+Los materiales magnéticos han desempeñado un rol fundamental en el desarrollo de la tecnología, como ser el caso de los imanes permanentes utilizados en sensores para vehículos, turbinas eólicas, disco duros para el almacenamiento de datos, entre otros. El estudio del magnetismo sigue siendo relevante tanto en la industria como en la academia, acentuado por los avances en nanotecnología, que han posibilitado aplicaciones tales como la administración controlada de fármacos en tratamientos médicos a través de nanopartículas magnéticas, almacenamiento magnético de alta densidad mediante películas magnéticas de espesor nanométrico, remediación de derrames de petróleo a través de nanomateriales magnéticos, por citar algunos.
+
+La comprensión de los fenómenos magnéticos es imprescindible para el desarrollo de nuevos materiales magnéticos y aplicaciones, lo que ofrece grandes oportunidades para la investigación en las áreas de física, físico-químico, ciencia de materiales e ingeniería, así como en aplicaciones industriales y comerciales. Este curso tiene como objetivo enseñar los conceptos fundamentales del magnetismo y los materiales magnéticos, con ejemplos claros de sus aplicaciones, proporcionar herramientas esenciales para la entender la ciencia y tecnología actuales, y fomentar el desarrollo de investigaciones en estos temas.
 
 CONTENIDO
 Unidad 1: Introducción
@@ -74,4 +74,3 @@ Aprobar un coloquio.
 CORRELATIVIDADES
 Para cursar: tener aprobada Física General III. 
 Para rendir: aprobadas Electromagnetismo I y Termodinámica Mecánica Estadística I.
-
