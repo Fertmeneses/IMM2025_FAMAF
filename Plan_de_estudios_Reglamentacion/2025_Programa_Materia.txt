@@ -1,0 +1,77 @@
+PROGRAMA DE ASIGNATURA
+
+ASIGNATURA: Introducción a los Materiales Magnéticos
+AÑO: 2025
+CARACTER: Especialidad
+UBICACIÓN EN LA CARRERA: 5° año 1° cuatrimestre
+CARRERA: Licenciatura en Física
+REGIMEN: Cuatrimestral
+CARGA HORARIA: 120 horas
+
+FUNDAMENTACIÓN Y OBJETIVOS
+En la actualidad se hace necesaria una comprensión más profunda del magnetismo en materiales, ya sean éstos de tamaño milimétrico o mayor, como en aquellos denominados nanomateriales, en los que la dimensionalidad puede estar reducida y sus dimensiones se acercan a las longitudes criticas, definidas por la competencia de diferentes interacciones.
+Estos aspectos se tratarán en el presente curso.
+El objetivo del curso es conocer las variables del material y las contribuciones a la energía magnética del mismo, las que determinan su microestructura magnética en diferentes condiciones externas. Se discutirán también los mecanismos de histéresis magnética de dichas microestructuras y los posibles mecanismos de magnetización operativos en los diferentes casos.
+
+CONTENIDO
+Unidad 1: Introducción
+Introducción. Polos magnéticos. Momento magnético. Magnetización. Dipolos magnéticos. Efectos magnéticos de las corrientes. Distintos tipos de magnetismo. Curvas de magnetización y ciclos de histéresis. Unidades magnéticas.
+
+Unidad 2: Métodos experimentales.
+Campos y factores desmagnetizantes, momento magnético y susceptibilidad. Distintos métodos de medición.
+
+Unidad 3: Diamagnetismo y Paramagnetismo.
+Momentos magnéticos de electrones. Momentos magnéticos de átomos. Teoría del diamagnetismo. Sustancias diamagnéticas. Teoría clásica del paramagnetismo. Teoría cuántica del paramagnetismo. Sustancias paramagnéticas.
+
+Unidad 4: Ferromagnetismo.
+Generalidades. Teoría del campo molecular. Comparación de la teoría de Weiss con el experimento. Interpretación del campo de Weiss.
+Fuerzas de intercambio. Dominios magnéticos: introducción cualitativa. La energía de anisotropía.
+Aleaciones ferromagnéticas.
+
+Unidad 5: Antiferromagnetismo y ferrimagnetismo.
+Modelo de Néel de dos subredes. Interacción de superintercambio. Estructura de las ferritas cúbicas. Magnetización de saturación en ferritas mezcladas.
+
+Unidad 6: Anisotropías magnéticas.
+Anisotropía en cristales cúbicos y hexagonales. Origen físico de la anisotropía cristalina. Métodos de medición de la anisotropía. Constantes de anisotropía. Anisotropía de forma. Otras anisotropías.
+
+Unidad 7: Dominios magnéticos y procesos de magnetización.
+Estructura de paredes. Estructura de dominios. Partículas monodominio. Elementos de micromagnetismo.
+
+Unidad 8: Magnetismo de partículas finas.
+Comportamiento mono- y multidominio. Coercitividad de finas partículas. Mecanismos de inversión de la magnetización. Rotación coherente, curling, buckling. Movimiento de paredes. Escalas de longitud características.
+
+Unidad 9: Aplicaciones magnéticas.
+Almacenamiento de información. Administración controlada de fármacos. Imágenes de resonancia magnética. Purificación ambiental.
+
+BIBLIOGRAFÍA
+BIBLIOGRAFÍA BÁSICA
+- B. D. Cullity C. D. Graham Introduction to magnetic materials. Wiley 2009.
+
+BIBLIOGRAFÍA COMPLEMENTARIA
+- R. C. O’Handley, Modern magnetic Materials: principles and applications. Willey 1999.
+- Giorgio Bertotti, Hysteresis in magnetism. Academic Press. San Diego 1998.
+- Alberto P Guimarães, Principles of Nanomagnetism ISBN 978-3-642-01482-6.
+- J. M. D. Coey, Magnetism and Magnetic Materials. Cambridge University Press 2012.
+- M. Vázquez (editor), Magnetic nano- and microwires : design, synthesis, properties and applications. Woodhead Publishing 2015.
+- Otros cursos de magnetismo (P. Bercoff).
+- Recursos audio-visuales de internet.
+- Artículos científicos seleccionados.
+
+EVALUACIÓN
+FORMAS DE EVALUACIÓN
+Dos Exámenes Parciales, teórico-prácticos, individuales, con instancias escrita y oral.
+Un Examen Final integrador, teórico-práctico, individuales, con instancias escrita y oral.
+
+REGULARIDAD
+Aprobar al menos dos evaluaciones parciales o sus correspondientes recuperatorios.
+Aprobar al menos el 60% de los Trabajos Prácticos o de Laboratorio.
+
+PROMOCIÓN
+Aprobar todas las evaluaciones parciales con una nota no menor a 6 (seis), y obteniendo un promedio no menor a 7 (siete).
+Aprobar al menos el 80% de los Trabajos Prácticos o de Laboratorio.
+Aprobar un coloquio.
+
+CORRELATIVIDADES
+Para cursar: tener aprobada Física General III. 
+Para rendir: aprobadas Electromagnetismo I y Termodinámica Mecánica Estadística I.
+
